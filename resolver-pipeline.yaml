@@ -9,8 +9,8 @@ spec:
         resolver: git
         params:
         - name: url
-          value: 'https://github.com/amisskii/git-resolver-test'
+          value: https://github.com/amisskii/git-resolver-test
         - name: revision
-          value: 'main'
+          value: main
         - name: pathInRepo
-          value: 'https://github.com/amisskii/git-resolver-test/blob/main/resolver-task.yaml'
+          value: resolver-task.yaml
